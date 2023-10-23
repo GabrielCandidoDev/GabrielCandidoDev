@@ -1,5 +1,4 @@
-
-    Olá! Eu sou GabrielCandidoDev ✌️
+Olá! Eu sou GabrielCandidoDev
 
 
 
