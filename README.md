@@ -1,8 +1,7 @@
-<center>
-    <img src="https://pps.whatsapp.net/v/t61.24694-24/390145019_2678723748950010_7844098217620983619_n.jpg?ccb=11-4&oh=01_AdTiwkmWSfoGQIJioJBvnqNdwANdi2Oc0wpoDv4To1rTDQ&oe=6543D705&_nc_sid=000000&_nc_cat=103" style="border-radius:50%; width:200px" />
 
-      Olá! Eu sou GabrielCandidoDev ✌️
-</center>
+    Olá! Eu sou GabrielCandidoDev ✌️
+
+
 
 
 
@@ -55,3 +54,22 @@
 [![php](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)]()
 [![php](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)]()
 
+
+
+
+### Hi there 👋
+
+<!--
+**GabrielCandidoDev/GabrielCandidoDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
